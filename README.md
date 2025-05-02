@@ -2,7 +2,7 @@
 - 👀 I’m interested in new technologies and how fasinating it is to learn about new techs everyday.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on projects in python.
-- 📫 You can always reach me at my email, abhi.dodle1@gmail.com
+- 📫 You can always reach me at my email, abhignadodla4@gmail.com
 - 😄 Pronouns: She/her
 
 <!---
